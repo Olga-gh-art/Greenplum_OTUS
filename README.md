@@ -1,0 +1,2 @@
+# Greenplum_OTUS
+Learning_greenplum_OTUS_school
